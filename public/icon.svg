@@ -1,0 +1,4 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mon Espace Solidaire">
+  <rect width="512" height="512" rx="96" fill="#0f766e"/>
+  <path d="M256 120 L400 240 H360 V380 H280 V300 H232 V380 H152 V240 H112 Z" fill="#ffffff"/>
+</svg>

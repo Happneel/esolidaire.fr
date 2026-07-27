@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude Code : config partagée (.claude/settings.json) suivie, préférences locales non
+.claude/settings.local.json
