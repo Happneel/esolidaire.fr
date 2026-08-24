@@ -32,7 +32,7 @@ export default function MaintenancePage() {
           Maintenance
         </p>
         <h1 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
-          Site en cours de suppression
+pardon lucas mon bebou, viens jouer à fortnite avec nous tous solidaire ❤️
         </h1>
         <p className="mt-6 text-base leading-relaxed text-slate-300">
           Mon Espace Solidaire est en cours de suppression définitive. Le site
